@@ -1,0 +1,4 @@
+enum MouseButtonState {
+  down,
+  up,
+}

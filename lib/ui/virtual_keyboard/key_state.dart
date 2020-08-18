@@ -1,0 +1,1 @@
+enum KeyState { up, down }
